@@ -14,6 +14,6 @@ This project involved the use of:
 - Bayesian localization to convert data from the camera into a map of the track, qualified with uncertainty.
 
 
-Code is rough (stretched for time in exam season). 
+Code is rough :)
 
 [Video](https://youtube.com/shorts/4gUUzB0B-0g?feature=share) shows one of our test runs during development.
